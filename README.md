@@ -1,4 +1,4 @@
- ![MasterHead](https://wall.alphacoders.com/by_sub_category.php?id=118390&name=Tropical+Wallpapers)
+
 <h1 align="center">Hi 👋, I'm Mürşide Gökçe</h1>
 <h3 align="center">I am a determined software developer in Turkey</h3>
 
