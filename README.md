@@ -3,6 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Mürşide Gökçe</h1>
 <h3 align="center">I am a determined software developer in Turkey</h3>
+<h1 🎓 I am a biomedical engineering graduate from Fatih Sultan Mehmet University and also a computer engineering student.</h1>
+<h1 📧 You can reach me on mursidegokce985@gmail.com</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
