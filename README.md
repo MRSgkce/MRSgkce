@@ -1,5 +1,5 @@
 ### Hi there 👋
- ![MasterHead][(https://unsplash.com/photos/green-leafed-plant-in-closeup-shot-CBh4D3l0EwM](https://wallpapers.com/wallpapers/minimal-flower-g4z0a9jil7rjfrfb.html))
+ ![MasterHead](https://wallpapers.com/wallpapers/minimal-flower-g4z0a9jil7rjfrfb.html)
 <h1 align="center">Hi 👋, I'm Mürşide Gökçe</h1>
 <h3 align="center">I am a determined software developer in Turkey</h3>
 
