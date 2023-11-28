@@ -6,6 +6,16 @@
 <h3 📧 You can reach me on mursidegokce985@gmail.com</h3>
 
 
+<div align="left">
+  
+  </a>
+  <a href="https://discord.com/users/mursidegokce" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=siestaxd&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="[https://www.linkedin.com/in/hamzabilen/](https://www.linkedin.com/in/m%C3%BCr%C5%9Fideg%C3%B6k%C3%A7e/)" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=hamzabilen&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
