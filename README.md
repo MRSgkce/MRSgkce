@@ -18,7 +18,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<img align="left" style="margin-right:10px"  width="90" src="https://icongr.am/devicon/swift-original.svg?size=128&color=currentColor"
+<img align="left" style="margin-right:10px"  width="40" src="https://icongr.am/devicon/swift-original.svg?size=128&color=currentColor"
           
 
 <img align="left" style="margin-right:10px" alt="c" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
