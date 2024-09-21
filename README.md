@@ -18,7 +18,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<img align="left" style="margin-right:10px"  width="170" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original-wordmark.svg"/>
+<img align="left" style="margin-right:10px"  width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original-wordmark.svg"/>
 
 <img align="left" style="margin-right:10px" alt="c" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
 
