@@ -1,30 +1,21 @@
+# 💫 About Me:
+I am a determined İOS and software developer in Turkey
 
 
-<h1 align="center">Hi 👋, I'm Mürşide Gökçe</h1>
-<h3 align="center">I am a determined İOS and software developer in Turkey</h3>
-<h3 🎓 I am a biomedical engineering graduate from Fatih Sultan Mehmet University and also a computer engineering student.</h3>
-<h3 📧 You can reach me on mursidegokce985@gmail.com</h3>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mürşidegökçe) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mursidegokce) 
 
+# 💻 Tech Stack:
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MRSgkce&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MRSgkce&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MRSgkce&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=MRSgkce&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mürşidegökçe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mürşidegökçe" height="30" width="40" /></a>
-<a href="https://medium.com/@mursidegokce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mursidegokce" height="40" width="40" /></a>
-</p>
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<img align="left" style="margin-right:10px"  width="40" src="https://icongr.am/devicon/swift-original.svg?size=128&color=currentColor"
-          
-
-<img align="left" style="margin-right:10px" alt="c" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
-
-<img align="left" style="margin-right:10px" alt="cplus" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img align="left" style="margin-right:10px" alt="dart" width="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"/>
 
 <img align="left" style="margin-right:10px" alt="firebase" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
